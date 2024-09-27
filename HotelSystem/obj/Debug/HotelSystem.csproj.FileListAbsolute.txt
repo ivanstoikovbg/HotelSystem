@@ -1,0 +1,7 @@
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\bin\Debug\HotelSystem.exe.config
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\bin\Debug\HotelSystem.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\bin\Debug\HotelSystem.pdb
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\obj\Debug\HotelSystem.csproj.AssemblyReference.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\obj\Debug\HotelSystem.csproj.CoreCompileInputs.cache
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\obj\Debug\HotelSystem.exe
+C:\Users\ИванВСтойков\source\repos\IvanStoikov\HotelSystem\obj\Debug\HotelSystem.pdb
